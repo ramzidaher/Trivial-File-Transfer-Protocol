@@ -7,6 +7,9 @@ This repository provides the implementation for a Trivial File Transfer Protocol
 ## Note
 This project is a university assignment and is intended solely for educational purposes. Redistribution or use of this code outside the context of the coursework is not endorsed. If you choose to use any part of this project, you do so at your own risk. The author assumes no responsibility for any consequences arising from the use or misuse of this code.
 
+## Grade Achieved
+82/100
+
 ## Components
 
 1. **TFTPUDPSocketClient** (UDP Client)
@@ -72,6 +75,4 @@ This project is a university assignment and is intended solely for educational p
 
 If you find any bugs or have suggestions, please open an issue in this repository. We welcome community contributions and improvements.
 
-## License
 
-This project is licensed under the MIT License.
