@@ -4,6 +4,9 @@
 
 This repository provides the implementation for a Trivial File Transfer Protocol (TFTP) client and server using both UDP and TCP protocols in Java.
 
+## Note
+This project is a university assignment and is intended solely for educational purposes. Redistribution or use of this code outside the context of the coursework is not endorsed. If you choose to use any part of this project, you do so at your own risk. The author assumes no responsibility for any consequences arising from the use or misuse of this code.
+
 ## Components
 
 1. **TFTPUDPSocketClient** (UDP Client)
